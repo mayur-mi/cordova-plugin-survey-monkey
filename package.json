@@ -1,0 +1,27 @@
+{
+  "name": "CordovaPluginSurveyMonkey",
+  "version": "0.0.1",
+  "description": "Cordova Plugin for Survey Monkey",
+  "cordova": {
+    "id": "cordova-plugin-survey-monkey",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mayur-mi/cordova-plugin-survey-monkey.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Mayur Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayur-mi/cordova-plugin-survey-monkey/issues"
+  },
+  "homepage": "https://github.com/mayur-mi/cordova-plugin-survey-monkey#readme"
+}
